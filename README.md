@@ -4,7 +4,7 @@
 
 - 💻 I'm working as an iOS Developer for more than 5 years
 - 🏢 I'm currently working at **Glovo**
-- 🌍 I'm mostly active within the **NSIstanbul Community**
+- 🌍 I'm mostly active within the **[NSIstanbul](http://nsistanbul.com/) Community**
 - 🖊️ I'm an author on Medium
 - 🎤 I'm a speaker
 - 📫 Reach me: [gktggumus@gmail.com](mailto:gktggumus@gmail.com)
