@@ -5,7 +5,7 @@
 - 💻 I'm working as an iOS Developer for more than 5 years
 - 🏢 I'm currently working at **[Glovo](https://glovoapp.com/)**
 - 🌍 I'm mostly active within the **[NSIstanbul](http://nsistanbul.com/) Community**
-- 🖊️ I'm an author on [Medium](https://medium.com/@goktuggumus)
+- 🖊️ I'm an author on [Medium](https://medium.com/@goktuggumus), writing for [Flawless iOS](https://medium.com/flawless-app-stories) and [NSIstanbul](https://medium.com/nsistanbul) publishers
 - 🎤 I'm a speaker
 - 📫 Reach me: [gktggumus@gmail.com](mailto:gktggumus@gmail.com)
 - 🗂️ Take a look at my resume: [Preview or Download CV](http://cv.goktuggumus.com/)
