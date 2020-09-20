@@ -2,12 +2,16 @@
 
 #### I'm an iOS Developer working in Barcelona, Spain, and originally from Istanbul, Turkey.
 
-- 💻 I'm working as an iOS Developer for more than 5 years.
+- 💻 I'm working as an iOS Developer for more than 5 years
 - 🏢 I'm currently working at **Glovo**
 - 🌍 I'm mostly active within the **NSIstanbul Community**
 - 🖊️ I'm an author on Medium
 - 🎤 I'm a speaker
 - 📫 Reach me: [gktggumus@gmail.com](mailto:gktggumus@gmail.com)
+- 🗂️ Take a look at my resume: [Preview or Download CV](http://cv.goktuggumus.com/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-goktuggumus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goktuggumus/)](https://www.linkedin.com/in/goktuggumus/)
+[![Medium Badge](https://img.shields.io/badge/-@goktuggumus-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@goktuggumus/)](https://medium.com/@goktuggumus)
 
 ---
 
