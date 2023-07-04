@@ -9,8 +9,8 @@
 - 🖊️ I'm an author on [Medium](https://medium.com/@goktuggumus), writing for [Flawless iOS](https://medium.com/flawless-app-stories) and [NSIstanbul](https://medium.com/nsistanbul) publishers
 - 🎤 I'm a speaker
 - 📫 Reach me: [gktggumus@gmail.com](mailto:gktggumus@gmail.com)
-- 🗂️ If you wanna in touch: [![Linkedin Badge](https://img.shields.io/badge/-goktuggumus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goktuggumus/)](https://www.linkedin.com/in/goktuggumus/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-goktuggumus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goktuggumus/)](https://www.linkedin.com/in/goktuggumus/)
 [![Medium Badge](https://img.shields.io/badge/-@goktuggumus-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@goktuggumus/)](https://medium.com/@goktuggumus)
 
 ---
