@@ -2,7 +2,7 @@
 
 #### I'm an iOS Developer working in Barcelona, Spain, and originally from Istanbul, Turkey.
 
-- 💻 I'm working as an iOS Developer for more than 7 years
+- 💻 I'm working as an iOS Developer for more than 8 years
 - 🏢 I'm currently working at **[Spotify](https://www.spotify.com/)**
 - 🏢 I'm ex-**[Glovo](https://glovoapp.com/)**
 - 🌍 I'm mostly active within the **[NSIstanbul](http://nsistanbul.com/) Community**
