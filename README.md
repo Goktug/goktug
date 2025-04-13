@@ -2,7 +2,7 @@
 
 #### I'm an iOS Engineer working in Barcelona, Spain, and originally from Istanbul, Turkey.
 
-- 💻 With 10+ years of experience, I specialize in building high-quality iOS apps with a strong focus on UX and performance, proudly shaping features used by 800M+ people every month
+- 💻 With 10+ years of experience, I specialize in building high-quality iOS apps with a strong focus on scalability and performance, proudly shaping features used by 800M+ people every month
 - 🤖 AI enthusiast building exciting projects with LLMs, Diffusers, Transformers, ComfyUI, and some other GenAI stuff
 - 🏢 Currently working at **[Spotify](https://www.spotify.com/)**
 - 🏢 Previously at **[Glovo](https://glovoapp.com/)**
