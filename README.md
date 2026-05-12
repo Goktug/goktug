@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-#### I'm an iOS Engineer working in Barcelona, Spain, and originally from Istanbul, Turkey.
+#### I'm an iOS & AI Engineer working in Barcelona, Spain, and originally from Istanbul, Turkey.
 
 - 💻 With 10+ years of experience, I specialize in building high-quality iOS apps with a strong focus on scalability and performance, proudly shaping features used by 800M+ people every month
-- 🤖 AI enthusiast building exciting projects with LLMs, Diffusers, Transformers, ComfyUI, and some other GenAI stuff
-- 🏢 Currently working at **[Spotify](https://www.spotify.com/)**
-- 🏢 Previously at **[Glovo](https://glovoapp.com/)**
+- 🤖 AI engineer who is building exciting projects with LLMs, Diffusers, Transformers, ComfyUI, and some other GenAI stuff
+- 🏢 Previously at **[Spotify](https://www.spotify.com/)** and **[Glovo](https://glovoapp.com/)**
 - 🌍 Active member of the **[NSIstanbul](http://nsistanbul.com/) iOS Community**
 - 🖊️ I write on on [Medium](https://medium.com/@goktuggumus), for [Flawless iOS](https://medium.com/flawless-app-stories) and [NSIstanbul](https://medium.com/nsistanbul)
 - 🎤 Speaker at meetups and conferences
